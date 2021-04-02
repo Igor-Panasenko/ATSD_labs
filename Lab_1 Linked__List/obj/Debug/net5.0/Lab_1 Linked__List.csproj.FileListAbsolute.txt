@@ -1,0 +1,16 @@
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_1 Linked__List\bin\Debug\net5.0\Lab_1 Linked__List.exe
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_1 Linked__List\bin\Debug\net5.0\Lab_1 Linked__List.deps.json
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_1 Linked__List\bin\Debug\net5.0\Lab_1 Linked__List.runtimeconfig.json
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_1 Linked__List\bin\Debug\net5.0\Lab_1 Linked__List.runtimeconfig.dev.json
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_1 Linked__List\bin\Debug\net5.0\Lab_1 Linked__List.dll
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_1 Linked__List\bin\Debug\net5.0\ref\Lab_1 Linked__List.dll
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_1 Linked__List\bin\Debug\net5.0\Lab_1 Linked__List.pdb
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_1 Linked__List\obj\Debug\net5.0\Lab_1 Linked__List.csprojAssemblyReference.cache
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_1 Linked__List\obj\Debug\net5.0\Lab_1 Linked__List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_1 Linked__List\obj\Debug\net5.0\Lab_1 Linked__List.AssemblyInfoInputs.cache
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_1 Linked__List\obj\Debug\net5.0\Lab_1 Linked__List.AssemblyInfo.cs
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_1 Linked__List\obj\Debug\net5.0\Lab_1 Linked__List.csproj.CoreCompileInputs.cache
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_1 Linked__List\obj\Debug\net5.0\Lab_1 Linked__List.dll
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_1 Linked__List\obj\Debug\net5.0\ref\Lab_1 Linked__List.dll
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_1 Linked__List\obj\Debug\net5.0\Lab_1 Linked__List.pdb
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_1 Linked__List\obj\Debug\net5.0\Lab_1 Linked__List.genruntimeconfig.cache
