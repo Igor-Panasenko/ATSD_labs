@@ -1,0 +1,16 @@
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\lab_2 Binary tree\Binary_tree\bin\Debug\net5.0\Binary_tree.exe
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\lab_2 Binary tree\Binary_tree\bin\Debug\net5.0\Binary_tree.deps.json
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\lab_2 Binary tree\Binary_tree\bin\Debug\net5.0\Binary_tree.runtimeconfig.json
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\lab_2 Binary tree\Binary_tree\bin\Debug\net5.0\Binary_tree.runtimeconfig.dev.json
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\lab_2 Binary tree\Binary_tree\bin\Debug\net5.0\Binary_tree.dll
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\lab_2 Binary tree\Binary_tree\bin\Debug\net5.0\ref\Binary_tree.dll
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\lab_2 Binary tree\Binary_tree\bin\Debug\net5.0\Binary_tree.pdb
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\lab_2 Binary tree\Binary_tree\obj\Debug\net5.0\Binary_tree.csprojAssemblyReference.cache
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\lab_2 Binary tree\Binary_tree\obj\Debug\net5.0\Binary_tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\lab_2 Binary tree\Binary_tree\obj\Debug\net5.0\Binary_tree.AssemblyInfoInputs.cache
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\lab_2 Binary tree\Binary_tree\obj\Debug\net5.0\Binary_tree.AssemblyInfo.cs
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\lab_2 Binary tree\Binary_tree\obj\Debug\net5.0\Binary_tree.csproj.CoreCompileInputs.cache
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\lab_2 Binary tree\Binary_tree\obj\Debug\net5.0\Binary_tree.dll
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\lab_2 Binary tree\Binary_tree\obj\Debug\net5.0\ref\Binary_tree.dll
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\lab_2 Binary tree\Binary_tree\obj\Debug\net5.0\Binary_tree.pdb
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\lab_2 Binary tree\Binary_tree\obj\Debug\net5.0\Binary_tree.genruntimeconfig.cache
