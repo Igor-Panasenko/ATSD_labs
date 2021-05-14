@@ -1,0 +1,16 @@
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_4 graph_algorithms\Graph_algorithms\bin\Debug\net5.0\Graph_algorithms.exe
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_4 graph_algorithms\Graph_algorithms\bin\Debug\net5.0\Graph_algorithms.deps.json
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_4 graph_algorithms\Graph_algorithms\bin\Debug\net5.0\Graph_algorithms.runtimeconfig.json
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_4 graph_algorithms\Graph_algorithms\bin\Debug\net5.0\Graph_algorithms.runtimeconfig.dev.json
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_4 graph_algorithms\Graph_algorithms\bin\Debug\net5.0\Graph_algorithms.dll
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_4 graph_algorithms\Graph_algorithms\bin\Debug\net5.0\ref\Graph_algorithms.dll
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_4 graph_algorithms\Graph_algorithms\bin\Debug\net5.0\Graph_algorithms.pdb
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_4 graph_algorithms\Graph_algorithms\obj\Debug\net5.0\Graph_algorithms.csprojAssemblyReference.cache
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_4 graph_algorithms\Graph_algorithms\obj\Debug\net5.0\Graph_algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_4 graph_algorithms\Graph_algorithms\obj\Debug\net5.0\Graph_algorithms.AssemblyInfoInputs.cache
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_4 graph_algorithms\Graph_algorithms\obj\Debug\net5.0\Graph_algorithms.AssemblyInfo.cs
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_4 graph_algorithms\Graph_algorithms\obj\Debug\net5.0\Graph_algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_4 graph_algorithms\Graph_algorithms\obj\Debug\net5.0\Graph_algorithms.dll
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_4 graph_algorithms\Graph_algorithms\obj\Debug\net5.0\ref\Graph_algorithms.dll
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_4 graph_algorithms\Graph_algorithms\obj\Debug\net5.0\Graph_algorithms.pdb
+C:\Users\Igor\OneDrive\Рабочий стол\Университет\1 курс\2 семестр\Git\Lab_4 graph_algorithms\Graph_algorithms\obj\Debug\net5.0\Graph_algorithms.genruntimeconfig.cache
